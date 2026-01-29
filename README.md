@@ -36,7 +36,7 @@ poetry install
 Create a `.env` file with your NordVPN service credentials:
 
 ```bash
-cp env.example .env
+cp .env.example .env
 # Edit .env with your credentials
 ```
 
