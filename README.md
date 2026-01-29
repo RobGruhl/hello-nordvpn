@@ -27,7 +27,8 @@ brew install --cask tunnelblick
 ## Installation
 
 ```bash
-cd /Users/robgruhl/Projects/hello-nordvpn
+git clone https://github.com/RobGruhl/hello-nordvpn.git
+cd hello-nordvpn
 poetry install
 ```
 
