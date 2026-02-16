@@ -42,3 +42,7 @@ configs/
 
 # Poetry
 poetry.lock
+
+# Scratch/output
+tmp/
+output/
